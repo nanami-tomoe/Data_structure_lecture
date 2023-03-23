@@ -17,4 +17,10 @@ The language is **C++** language.
 
 - [**1-71.**](https://github.com/nanami-tomoe/data_structure_lecture/blob/main/1-71.cpp) (C-style String) 양의 이진수로 된 스트링(예를 들어 str[] = "10011")을 십진수 숫자(예를 들어 num = 19)로 바꾸는 프로그램을 작성하라.
 
-- [**2-60.**](https://github.com/nanami-tomoe/data_structure_lecture/blob/main/2-60.cpp) (C-style String) 양의 이진수로 된 스트링(예를 들어 str[] = "10011")을 십진수 숫자(예를 들어 num = 19)로 바꾸는 프로그램을 작성하라.
+- [**2-60.**](https://github.com/nanami-tomoe/data_structure_lecture/blob/main/2-60.cpp) (Function Template) 타입 T의 두 변수 a와 b 중 작은 것을 반환하는 template 함수 T Min(T a, T b)를 포함한 프로그램을 작성하라. 정수, 실수, 문자에 대해서 template 함수를 검증하라
+
+- [**2-61.**](https://github.com/nanami-tomoe/data_structure_lecture/blob/main/2-61.cpp) (Dynamic Memory Allocation) 문자 배열을 동적 메모리 할당을 사용하여 만들고 배열에 "Hello World”를 넣어라. 문자 배열의 마지막은 null character (/O)가 되어야 하므로 배열의 크기는 12이다.
+
+- [**2-62.**](https://github.com/nanami-tomoe/data_structure_lecture/blob/main/2-62.cpp) (Funcion Modifying a Value - 2) Increment(), Decrement(), Print()의 함수를 포함하는 class Count를 작성하고 이블 검증하는 main()을 작성하라.
+
+- [**2-64.**](https://github.com/nanami-tomoe/data_structure_lecture/blob/main/2-64.cpp) (Funcion and Operator Overloading) Operator overloading을 이용하여 복소수의 곱을 구하는 프로그램을 작성하라.
