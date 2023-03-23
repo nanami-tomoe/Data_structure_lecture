@@ -16,3 +16,5 @@ The language is **C++** language.
 - [**1-70.**](https://github.com/nanami-tomoe/data_structure_lecture/blob/main/1-70.cpp) (Searching a Number in an Array) 찾고자 하는 숫자가 배열에 여러 개 있을 때 숫자의 위치를 모두 출력하는 프로그램을 작성하라.
 
 - [**1-71.**](https://github.com/nanami-tomoe/data_structure_lecture/blob/main/1-71.cpp) (C-style String) 양의 이진수로 된 스트링(예를 들어 str[] = "10011")을 십진수 숫자(예를 들어 num = 19)로 바꾸는 프로그램을 작성하라.
+
+- [**2-60.**](https://github.com/nanami-tomoe/data_structure_lecture/blob/main/2-60.cpp) (C-style String) 양의 이진수로 된 스트링(예를 들어 str[] = "10011")을 십진수 숫자(예를 들어 num = 19)로 바꾸는 프로그램을 작성하라.
