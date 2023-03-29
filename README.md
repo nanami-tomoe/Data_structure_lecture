@@ -29,4 +29,4 @@ The language is **C++** language.
 
 - [**3-39.**](https://github.com/nanami-tomoe/data_structure_lecture/blob/main/3-39.cpp) (Merging and Spliting Arrays) 오름차순이 아니라 내림차순으로 정렬된 두 개의 배열을 (예를 들어 int b[SIZE] = {9, 6, 4, 1, 0}, c[SIZE] = {8, 7, 5, 3, 2}) 병합하는 프로그램을 작성하라. 병합된 배열도 내림차순으로 정렬되어 있어야 한다. (병합된 배열 a[] = {9, 8, 7, 6, 5, 4, 3, 2, 1, 0})
 
-- [**3-41.**](https://github.com/nanami-tomoe/data_structure_lecture/blob/main/3-41) (Merging and Spliting Arrays) (Binary Search) 배열이 오름차순이 아니라 내림차순으로 정렬되어 있다고 할 때 이진 탐색을 하는 프로그램을 작성하라.
+- [**3-41.**](https://github.com/nanami-tomoe/data_structure_lecture/tree/main/3%20-%2041) (Merging and Spliting Arrays) (Binary Search) 배열이 오름차순이 아니라 내림차순으로 정렬되어 있다고 할 때 이진 탐색을 하는 프로그램을 작성하라.
