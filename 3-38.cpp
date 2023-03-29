@@ -19,5 +19,5 @@ int main(){
   size = j;
   cout << "after: ";
   PrintArray(a, size);
-
+  return 0;
 }
