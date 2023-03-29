@@ -24,3 +24,9 @@ The language is **C++** language.
 - [**2-62.**](https://github.com/nanami-tomoe/data_structure_lecture/blob/main/2-62.cpp) (Funcion Modifying a Value - 2) Increment(), Decrement(), Print()의 함수를 포함하는 class Count를 작성하고 이블 검증하는 main()을 작성하라.
 
 - [**2-64.**](https://github.com/nanami-tomoe/data_structure_lecture/blob/main/2-64.cpp) (Funcion and Operator Overloading) Operator overloading을 이용하여 복소수의 곱을 구하는 프로그램을 작성하라.
+
+- [**3-38.**](https://github.com/nanami-tomoe/data_structure_lecture/blob/main/3-38.cpp) (Deleting an Element from Array) 정수 num1과 num2가 주어졌을 때 (예를 들어 numl= 2, num2 = 3) 배열에서 num1과 nun2를 찾아서 모두 제거하는 프로그램을 작성하라. (예를 들어 int a[SIZE] = (1, 2, 2, 3, 4, 5, 2, 7, 3, 9) 이면 num1과 num2를 제거한 뒤 a] = {1,4,5,7,9} 가 된다.)
+
+- [**3-39.**](https://github.com/nanami-tomoe/data_structure_lecture/blob/main/3-39.cpp) (Merging and Spliting Arrays) 오름차순이 아니라 내림차순으로 정렬된 두 개의 배열을 (예를 들어 int b[SIZE] = {9, 6, 4, 1, 0}, c[SIZE] = {8, 7, 5, 3, 2}) 병합하는 프로그램을 작성하라. 병합된 배열도 내림차순으로 정렬되어 있어야 한다. (병합된 배열 a[] = {9, 8, 7, 6, 5, 4, 3, 2, 1, 0})
+
+- [**3-41.**](https://github.com/nanami-tomoe/data_structure_lecture/blob/main/3-41) (Merging and Spliting Arrays) (Binary Search) 배열이 오름차순이 아니라 내림차순으로 정렬되어 있다고 할 때 이진 탐색을 하는 프로그램을 작성하라.
