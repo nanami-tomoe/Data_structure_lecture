@@ -40,3 +40,6 @@ The language is **C++** language.
 
 - [**4-45.**](https://github.com/nanami-tomoe/data_structure_lecture/tree/main/4-45) (Stack) Stack% top에 있는 element의 data를 새로운 data로 바꾸는 void
 Stack::Replace(Data d)를 추가하여 프로그램을 작성하라.
+---
+
+- [**5-43.**](https://github.com/nanami-tomoe/data_structure_lecture/tree/main/5-43) (Queue) QUEUE_SIZE는 5이며 queue가 empty이거나 full인 경우 프로그램을 종료하는 대신, 요청된 작업을 무시하도록 하는 Queue 프로그램을 작성하라.
